@@ -1,6 +1,6 @@
 # _Grocery List_
 
-#### _Use jQuery to create grocery list from user input_
+#### _jQuery to create grocery list from user input_
 
 #### By _**Stephanie Gurung & Maldon Meehan**_
 
@@ -38,6 +38,7 @@ _Please feel free to contact Maldon or Stephanie if you have any questions_
 * Jquery
 * JavaScript
 * CSS
+* Bootstrap
 
 ### License
 
